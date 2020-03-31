@@ -7,3 +7,5 @@ preparandome para hacer un merge y unir los dos branch
 
 Hola soy Patricio Lorca Ulloa.
 Un loco por las series y peliculas, el genero de preferencia ciencia ficcion.
+
+En esta linea inicia mi aprendisaje desde github, este comentario esta escrito desde la web.
